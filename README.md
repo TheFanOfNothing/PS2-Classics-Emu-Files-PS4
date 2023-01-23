@@ -1,4 +1,4 @@
-# PS2 Classics Emu Files for PS4 (NOT WORKING)
+# PS2 Classics Emu Files for PS4 (NOT FULLY TESTED)
  
-
-Update: these don't seem to work. So basically these are still WIP
+War of the Monsters didn't seem to come up with any errors so far
+Rise of the Kasai doesn't seem to work like it should
