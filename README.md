@@ -1,5 +1,4 @@
-# PS2 Classics Emu Files for PS4 (NOT FULLY TESTED)
+# PS2 Classics Emu Files for PS4
  
-War of the Monsters didn't seem to come up with any errors so far
-
-Rise of the Kasai doesn't seem to work like it should
+You can download all the existing emulator files here:
+https://archive.org/details/ps2-classics-emulators-for-ps4.7z
